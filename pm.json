@@ -3,5 +3,5 @@
   "ticker": "MIGAR",
   "description": "Stake pool to fund the AMIGAR project, which seeks to make a strong social impact in LATAM helping potential entrepreneurs to start, grow and manage their own business and sell their goods to consumers using blockchain technologies",
   "homepage": "https://amig.ar",
-  "extended": "https://raw.githubusercontent.com/amig-ar/ca/main/pm.json"
+  "extended": "https://raw.githubusercontent.com/amig-ar/ca/main/extended.json"
 }
