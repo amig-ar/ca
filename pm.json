@@ -2,6 +2,6 @@
   "name": "AMIGAR",
   "ticker": "AMIGR",
   "description": "Stake pool to fund the AMIGAR project, which seeks to make a strong social impact in LATAM using Cardano blockchain technology",
-  "homepage": "https://amig.ar",
+  "homepage": "https://www.amig.ar",
   "extended": "https://raw.githubusercontent.com/amig-ar/ca/main/extended.json"
 }
