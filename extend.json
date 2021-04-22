@@ -5,7 +5,7 @@
         "location": "Buenos Aires, Argentina",
         "social": {
             "twitter_handle": "",
-            "telegram_handle": "",
+            "telegram_handle": "AMIGAR Stake Pool",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
@@ -28,6 +28,7 @@
             "0": "c6074d596a4d1629304bfd92715ec1677aeb378e4932723616d575f1"
         },
         "telegram-admin-handle": {
+            "0": "EduardoWeh"
         }
     }
 }
